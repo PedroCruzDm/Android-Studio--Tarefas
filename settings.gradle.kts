@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TarafaZero"
+rootProject.name = "My Application"
 include(":app")
